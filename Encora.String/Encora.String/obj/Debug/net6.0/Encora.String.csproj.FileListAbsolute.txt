@@ -1,0 +1,14 @@
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\bin\Debug\net6.0\Encora.String.exe
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\bin\Debug\net6.0\Encora.String.deps.json
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\bin\Debug\net6.0\Encora.String.runtimeconfig.json
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\bin\Debug\net6.0\Encora.String.dll
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\bin\Debug\net6.0\Encora.String.pdb
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.AssemblyInfoInputs.cache
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.AssemblyInfo.cs
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.csproj.CoreCompileInputs.cache
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.dll
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\refint\Encora.String.dll
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.pdb
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\Encora.String.genruntimeconfig.cache
+C:\Users\octavio.suero.ENCORA\source\repos\Encora.String\Encora.String\obj\Debug\net6.0\ref\Encora.String.dll
